@@ -1,4 +1,4 @@
-# **Educational Institution Prediction Model**
+# **Educational Institution Admission Prediction Model**
 <br>
 Model creation after exploratory data analysis of an educational institution to assist students in gaining admission to prestigious colleges.
 
